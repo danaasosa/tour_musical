@@ -1,0 +1,38 @@
+{
+    "Usuarios": [
+        {
+            "ID": 4338249264,
+            "Nombre": "Dana",
+            "Apellido": "Sosa",
+            "Historial Destinos": [
+                4338234704,
+                4338247920,
+                4338235424
+            ]
+        },
+        {
+            "ID": 4338249456,
+            "Nombre": "David",
+            "Apellido": "Serapio",
+            "Historial Destinos": [
+                4338234784,
+                4338235024,
+                4338235424
+            ],
+            "Ruta": {
+                "ID": 4436422000,
+                "Nombre": "Mi Ruta",
+                "Destino": [
+                    4338234704,
+                    4338235024
+                ]
+            }
+        },
+        {
+            "ID": 4435968880,
+            "Nombre": "Alejandra",
+            "Apellido": "Lopez",
+            "Historial Destinos": []
+        }
+    ]
+}

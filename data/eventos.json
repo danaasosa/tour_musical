@@ -1,0 +1,59 @@
+{
+    "Eventos": [
+        {
+            "Evento id": 4338235424,
+            "Nombre del evento": "Cruzando el Charco Jujuy",
+            "Artista": "Cruzando el Charco",
+            "Genero Musical": "pop",
+            "Ubicacion id": 4338235344,
+            "Hora de inicio": "2023-07-28T23:00:00",
+            "Hora de finalizacion": "2023-07-29T01:00:00",
+            "Descripcion": "La banda platense vuelve a nuestra provincia con un show imperdible",
+            "URL imagen": "/Users/danaa.sosa/Downloads/Tour Musical/assets/imagenes/cruzando el charco.png"
+        },
+        {
+            "Evento id": 4338234704,
+            "Nombre del evento": "Eleccion Reina 2023",
+            "Artista": "Maria Becerra",
+            "Genero Musical": "regueton",
+            "Ubicacion id": 4336673984,
+            "Hora de inicio": "2023-09-29T20:00:00",
+            "Hora de finalizacion": "2023-09-29T23:00:00",
+            "Descripcion": "La nena de Argentina es la artista elegida para brindar el espectaculo en la fiesta de los estudiantes",
+            "URL imagen": "/Users/danaa.sosa/Downloads/Tour Musical/assets/imagenes/FNE_2023.png"
+        },
+        {
+            "Evento id": 4338234784,
+            "Nombre del evento": "Fede Moura interpreta virus",
+            "Artista": "Fede Moura",
+            "Genero Musical": "rock y pop argentino",
+            "Ubicacion id": 4338246000,
+            "Hora de inicio": "2023-08-31T20:30:00",
+            "Hora de finalizacion": "2023-08-31T22:00:00",
+            "Descripcion": "El show que marca el camino de la carrera solista del cantante y compositor Fede Moura",
+            "URL imagen": "/Users/danaa.sosa/Downloads/Tour Musical/assets/imagenes/moura-sla.png"
+        },
+        {
+            "Evento id": 4338247920,
+            "Nombre del evento": "Gira 2023",
+            "Artista": "Los del Portezuelo",
+            "Genero Musical": "folclore",
+            "Ubicacion id": 4338235184,
+            "Hora de inicio": "2023-08-26T21:00:00",
+            "Hora de finalizacion": "2023-08-26T23:00:00",
+            "Descripcion": "Una noche con sorpresas y un espectaculo inolvidable",
+            "URL imagen": "/Users/danaa.sosa/Downloads/Tour Musical/assets/imagenes/los del portezuelo.png"
+        },
+        {
+            "Evento id": 4338235024,
+            "Nombre del evento": "Experiencia Queen",
+            "Artista": "queen",
+            "Genero Musical": "rock",
+            "Ubicacion id": 4338234944,
+            "Hora de inicio": "2023-07-23T21:00:00",
+            "Hora de finalizacion": "2023-07-23T23:00:00",
+            "Descripcion": "Vivi una verdadera experiencia queen en vivo",
+            "URL imagen": "/Users/danaa.sosa/Downloads/Tour Musical/assets/imagenes/experienciaqueeen_juj.png"
+        }
+    ]
+}

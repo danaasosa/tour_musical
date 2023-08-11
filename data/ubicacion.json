@@ -1,0 +1,49 @@
+{
+    "Ubicaciones": [
+        {
+            "ID": 4338235344,
+            "Nombre": "Galpones Recuperados MTK",
+            "Direccion": "Urquiza y Arga\u00f1araz",
+            "Coordenadas": [
+                -24.177067672583316,
+                -65.31881440251816
+            ]
+        },
+        {
+            "ID": 4336673984,
+            "Nombre": "Estadio 23 de Agosto",
+            "Direccion": "Av. El Exodo y Santa Barbara",
+            "Coordenadas": [
+                -24.198357356157036,
+                -65.29088570436872
+            ]
+        },
+        {
+            "ID": 4338246000,
+            "Nombre": "El Teatrino",
+            "Direccion": "Aniceto Latorre 1211",
+            "Coordenadas": [
+                -24.772960840169283,
+                -65.41788491968977
+            ]
+        },
+        {
+            "ID": 4338235184,
+            "Nombre": "Centro Cultural Martin Fierro",
+            "Direccion": "Av. Illia 450",
+            "Coordenadas": [
+                -24.1686587873673,
+                -65.32013554669801
+            ]
+        },
+        {
+            "ID": 4338234944,
+            "Nombre": "Teatro Provincial Saravia",
+            "Direccion": "Zuviria 70",
+            "Coordenadas": [
+                -24.788836272584476,
+                -65.40949706016616
+            ]
+        }
+    ]
+}
